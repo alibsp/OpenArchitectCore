@@ -6,7 +6,7 @@ ApplicationWindow {
     visible: true
     width: 900
     height: 600
-    title: "Naval Battle UI - Core"
+    title: "Open Architect UI - Core"
 
     Rectangle {
         anchors.fill: parent
