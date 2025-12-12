@@ -67,6 +67,9 @@ The project follows an open, extensible architecture allowing multiple contribut
 
 ---
 
+![OpenArchitect UI](images/example.png)
+
+
 ## Plugin Architecture Overview
 
 OpenArchitectCore uses a **strict plugin contract**, allowing third-party modules to work without altering the Core.
